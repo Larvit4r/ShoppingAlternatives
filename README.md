@@ -4,20 +4,26 @@
 
 <p>Sites will be sorted in this format: "<a href="#">Link</a> [Country based in][Countries available] Description written here. (Any comments if necessary.)" The 'countries available' part will be for countries able to shop from these sites, or "WW" for worldwide/international. An example would be [US][CA/US] for a site based in the US that will ship to Canada or the US. I may or may not change the first one into a flag to make it pretty.</p>
 
-<h3>DEAL HUNTING</h3><ul>
-<li>https://slickdeals.net</li>
-<li>https://dealnews.com</li>
-<li>https://kinjadeals.theinventory.com (Gizmodo)</li>
-<li>https://rakuten.com (May make separate category for sites/apps like this)</li>
+<h2>DEAL HUNTING</h2>
+<h4>Recommended:</h4><ul>
+  <li><a href="https://slickdeals.net">SlickDeals</a></li>
+  <li><a href="https://dealnews.com">Deal News</a></li>
+  <li><a href="https://kinjadeals.theinventory.com">Kinja Deals</a></li>
+  <li><a href="https://rakuten.com">Rakuten</a> (May make separate category for sites/apps like this)</li>
 </ul>
 
-<h3>GENERAL/MULTIPLE CATEGORIES</h3><ul>
-<li><a href="https://ebay.com">eBay</a> [US][WW] WIP. (Some purchases may require Paypal, which is owned by eBay.)</li>
-<li>https://etsy.com</li>
-<li>https://aliexpress.com [CN][WW]</li>
-<li>https://alibaba.com [CN][WW] (For buying in bulk)</li>
-<li>https://overstock.com</li>
-<li>https://wayfair.com</li>
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h2>GENERAL/MULTIPLE CATEGORIES</h2>
+<h4>Recommended:</h4><ul>
+<li><a href="https://ebay.com">eBay</a> [US][WW] WIP. (Some purchases may require Paypal, which is owned by eBay. <a href="https://en.wikipedia.org/wiki/Criticism_of_eBay">Also has plenty of criticism</a> but not as bad as A/W.)</li>
+  <li><a href="https://etsy.com">Etsy</a></li>
+  <li><a href="https://aliexpress.com">AliExpress</a> [CN][WW]</li>
+  <li><a href="https://alibaba.com">Alibaba</a> [CN][WW] (For buying in bulk)</li>
+  <li><a href="https://overstock.com">Overstock</a></li>
+  <li><a href="https://wayfair.com">Wayfair</a></li>
 <li>https://
 https://
 https://
@@ -26,8 +32,13 @@ https://
 https://</li>
 </ul>
 
-<h3>BOOKS</h3>
-<li>https://thriftbooks.com</li>
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h2>BOOKS</h2>
+<h4>Recommended:</h4><ul>
+  <li><a href="https://thriftbooks.com">ThriftBooks</a></li>
 <li>https://
 https://
 https://
@@ -35,49 +46,90 @@ https://
 https://</li>
 </ul>
 
-<h3>COMPUTERS/ELECTRONICS</h3><ul>
-<li>https://newegg.com</li>
-<li>https://pcpartpicker.com</li>
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h2>COMPUTERS/ELECTRONICS</h2>
+<h4>Recommended:</h4><ul>
+  <li><a href="https://newegg.com">NewEgg</a> [US][US,???] WIP.</li>
+  <li><a href="https://pcpartpicker.com">PC Part Picker</a></li>
 <li>https://</li>
 <li>https://</li>
 <li>https://</li>
 </ul>
 
-<h3>MUSICAL INSTRUMENTS</h3><ul>
-<li>https://guitarcenter.com</li>
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h2>MUSICAL INSTRUMENTS</h2>
+<h4>Recommended:</h4><ul>
+  <li><a href="https://guitarcenter.com">Guitar Center</a> [US][US,???] WIP.</li>
 <li>https://</li>
 <li>https://</li>
 </ul>
 
-<h3>PETS</h3><ul>
-<li>https://chewy.com</li>
-<li>https://dog.com</li>
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h2>PETS</h2>
+<h4>Recommended:</h4><ul>
+  <li><a href="https://chewy.com">Chewy</a></li>
+  <li><a href="https://dog.com">Dog.com</a></li>
+  <li><a href="https://petco.com">PetCo</a></li>
+  <li><a href="https://petsmart.com</a>PetsMart</a></li>
+    <li><a href="https://petsupplies.com">PetSupplies.com</a></li>
+  <li>https://</li>
+  <li>https://</li>
+  <li>https://</li>
+  <li>https://</li>
+  <li>https://</li>
 </ul>
 
-<h3>SUPPLEMENTS</h3><ul>
-<li>https://lifeextension.com</li>
-<li>https://puritan.com</li>
-<li>https://iherb.com ????????</li>
-<li>https://vitaminshoppe.com ?????????</li>
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h3>SUPPLEMENTS</h3>
+<h4>Recommended:</h4><ul>
+  <li><a href="https://lifeextension.com">Life Extension</a> [US][US,???] WIP.</li>
+  <li><a href="https://puritan.com">Puritan's Pride</a></li>
+  <li><a href="https://iherb.com">iHerb</a> ????????</li>
+  <li><a href="https://vitaminshoppe.com">Vitamin Shoppe</a> ?????????</li>
 <li>https://</li>
 </ul>
 
-<h3>SORT THESE / CHECK THESE OUT</h3><ul>
-<li>https://bedbathandbeyond.com</li>
-<li>https://bathandbodyworks.com</li>
-<li>https://target.com</li>
-<li>https://costco.com</li>
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h2>VIDEO GAMES</h2>
+<h4>Recommended:</h4><ul>
+  <li><a href="https://gog.com">Good Old Games (GOG)</a></li>
+  <li><a href="https://humblebundle.com">Humble Bundle</a></li>
+  <li><a href="https://steampowered.com">Steam</a></li>
+  <li><a href="https://gamestop.com">GameStop</a></li>
+  </ul>
+
+<h4>Avoid these:</h4><ul>
+  <li>https://</li>
+  </ul>
+
+<h2>SORT THESE / CHECK THESE</h2><ul>
+  <li><a href="https://bedbathandbeyond.com">Bed, Bath And Beyond</a></li>
+  <li><a href="https://bathandbodyworks.com">Bath & Body Works</a></li>
+  <li><a href="https://target.com">Target</a></li>
+  <li><a href="https://costco.com">CostCo</a></li>
 <li>https://wish.com (lol)</li>
-<li>https://groupon.com</li>
-<li>https://homedepot.com</li>
+  <li><a href="https://groupon.com">Groupon</a></li>
+  <li><a href="https://homedepot.com">Home Depot</a></li>
 <li>https://gearbest.com ???</li>
 <li>https://ikea.com (Boycott maybe?)</li>
 <li>https://bestbuy.com</li>
 <li>https://humblebumble.com</li>
 <li>https://wish.com</li>
-<li>https://newegg.com</li>
-<li>https://costco.com</li>
-<li>https://groupon.com</li>
 <li>https://lowes.com</li>
 <li>https://kohls.com</li>
 <li>https://dhgate.com (CN)</li>
@@ -123,7 +175,6 @@ Dollar Tree
 ShineOn
 Tmart
 SammyDress
-DHGate
 Banggood
 Blinq
 Teespoon
@@ -137,8 +188,6 @@ Tmall
 Wanelo
 Taobao
 ToysRus
-Target
-GearBest
 PartyCity
 NotOnTheHighStreet
 AllStarHealth
@@ -157,15 +206,35 @@ SheIn
 Dog Supplies</li>
 </ul>
 
-<h3>! ! ! AVOID IF POSSIBLE ! ! !</h3>
+<h1>! ! ! AVOID IF POSSIBLE ! ! !</h1>
 
 <h2><a href="https://amazon.com">Amazon</a> (<a href="https://en.wikipedia.org/wiki/Criticism_of_Amazon">Why?</a>)</h2><ul>
 <li>https://</li>
 </ul>
 
+<h2><a href="https://apple.com">Apple/iOS/iTunes/Mac</a> (<a href="#">Why?</a>)</h2><ul>
+  <li>https://</li>
+  </ul>
+
+<h2><a href="https://facebook.com">Facebook Marketplace</a> (<a href="#">Why?</a>)</h2><ul>
+  <li>https://</li>
+  </ul>
+
+<h2><a href="https://google.com">Google/Google Play/Android</a> (<a href="#">Why?</a>)</h2><ul>
+  <li>https://</li>
+  </ul>
+
+<h2><a href="https://paypal.com">Paypal</a> (<a href="https://en.wikipedia.org/wiki/Criticism_of_PayPal">Why?</a>)</h2>
+<p>Owned by eBay, consider using WIP instead.</p>
+
+<h2><a href="https://microsoft.com">Microsoft/Skype/Xbox</a> (<a href="#">Why?</a>)</h2><ul>
+  <li><a href="https://skype.com">Skype/Microsoft Teams</a></li>
+  <li><a href="https://xbox.com">Xbox</a></li>
+  </ul>
+
 <h2><a href="https://walmart.com">Walmart</a> (<a href="https://en.wikipedia.org/wiki/Criticism_of_Walmart">Why?</a>)</h2><ul>
 <li>Amigo Supermarkets</li>
-<li><a href="https://jet.com">Jet</a></li>
+<li><a href="https://jet.com">Jet.com</a></li>
 <li>Moosejaw</li>
 <li>add more from https://en.wikipedia.org/wiki/Category:Walmart?printable=yes )</li>
 </ul>
